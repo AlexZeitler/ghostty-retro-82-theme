@@ -1,0 +1,1 @@
+# ghostty-retro-82-theme
