@@ -5,6 +5,9 @@ warm amber accents, and cyan/teal support tones. Port of the
 [omarchy-retro-82-theme](https://github.com/OldJobobo/omarchy-retro-82-theme)
 palette.
 
+## Preview
+![Preview Image](assets/img/screenshot.png)
+
 ## Palette
 
 | Token          | Hex       |
